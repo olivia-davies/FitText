@@ -1,3 +1,3 @@
-# Web 2 Starter
+# FitText
 
 Put information about your project here. 
